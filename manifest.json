@@ -1,0 +1,16 @@
+
+{
+    "name": "Causal Governance Framework",
+    "short_name": "CGF",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00274d",
+    "icons": [
+        {
+            "src": "assets/images/favicon.ico",
+            "sizes": "32x32",
+            "type": "image/x-icon"
+        }
+    ]
+}
